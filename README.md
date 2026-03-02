@@ -1,10 +1,10 @@
-# AI Smart Reply – Real-Time Customer Support Dashboard
+# AI Smart CustomerCare : Real-Time Customer Support Dashboard
 
 An AI-powered full-stack customer support system designed to assist agents with intelligent reply suggestions and real-time chat management.
 
 ## 🚀 Project Overview
 
-AI Smart Reply is a scalable customer support platform that enables:
+AI Smart CustomerCare is a scalable customer support platform that enables:
 
 - Secure JWT-based authentication
 - Role-based access (Customer / Agent)
